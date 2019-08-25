@@ -1,0 +1,44 @@
+\BOOKMARK [1][-]{section.1}{Introduction}{}% 1
+\BOOKMARK [2][-]{subsection.1.1}{Motivation}{section.1}% 2
+\BOOKMARK [2][-]{subsection.1.2}{Research Problem Statement}{section.1}% 3
+\BOOKMARK [2][-]{subsection.1.3}{Aims and Objectives}{section.1}% 4
+\BOOKMARK [2][-]{subsection.1.4}{Research Questions}{section.1}% 5
+\BOOKMARK [1][-]{section.2}{Literary Review}{}% 6
+\BOOKMARK [2][-]{subsection.2.1}{Introduction}{section.2}% 7
+\BOOKMARK [2][-]{subsection.2.2}{Data Centre Infrastructure and the WIT-TSSG Data Centre}{section.2}% 8
+\BOOKMARK [3][-]{subsubsection.2.2.1}{What is a Data Centre and How Much Energy do they Use?}{subsection.2.2}% 9
+\BOOKMARK [3][-]{subsubsection.2.2.2}{The WIT-TSSG Data Centre}{subsection.2.2}% 10
+\BOOKMARK [2][-]{subsection.2.3}{Improving Data Centre Energy Efficiency}{section.2}% 11
+\BOOKMARK [2][-]{subsection.2.4}{Data Mining Techniques \(for improving energy efficiency in buildings\)}{section.2}% 12
+\BOOKMARK [2][-]{subsection.2.5}{Summary}{section.2}% 13
+\BOOKMARK [1][-]{section.3}{Methodology}{}% 14
+\BOOKMARK [1][-]{section.4}{Research Methods}{}% 15
+\BOOKMARK [2][-]{subsection.4.1}{Data Available}{section.4}% 16
+\BOOKMARK [2][-]{subsection.4.2}{Exploratory Data Analysis}{section.4}% 17
+\BOOKMARK [2][-]{subsection.4.3}{Research Techniques}{section.4}% 18
+\BOOKMARK [3][-]{subsubsection.4.3.1}{Introduction}{subsection.4.3}% 19
+\BOOKMARK [3][-]{subsubsection.4.3.2}{Import Data From Data Centre}{subsection.4.3}% 20
+\BOOKMARK [3][-]{subsubsection.4.3.3}{Understanding the Data}{subsection.4.3}% 21
+\BOOKMARK [3][-]{subsubsection.4.3.4}{Manipulate Data in Python to Generate Correlations for all Variables}{subsection.4.3}% 22
+\BOOKMARK [3][-]{subsubsection.4.3.5}{Analyse Correlations}{subsection.4.3}% 23
+\BOOKMARK [3][-]{subsubsection.4.3.6}{Meet with Data Centre Administrators}{subsection.4.3}% 24
+\BOOKMARK [3][-]{subsubsection.4.3.7}{Identify Micro-timelines to Analyse Chiller Performance}{subsection.4.3}% 25
+\BOOKMARK [3][-]{subsubsection.4.3.8}{Identifying Variables to use in a Regression Model}{subsection.4.3}% 26
+\BOOKMARK [3][-]{subsubsection.4.3.9}{Construct Regression Model}{subsection.4.3}% 27
+\BOOKMARK [3][-]{subsubsection.4.3.10}{'Goodness of Fit' Measures}{subsection.4.3}% 28
+\BOOKMARK [1][-]{section.5}{Presentation of Findings}{}% 29
+\BOOKMARK [2][-]{subsection.5.1}{Correlation Analysis of Chiller 1 versus Chiller 2}{section.5}% 30
+\BOOKMARK [2][-]{subsection.5.2}{Regression Analysis of Chiller 1 versus Chiller 2}{section.5}% 31
+\BOOKMARK [1][-]{section.6}{Discussion of Findings}{}% 32
+\BOOKMARK [1][-]{section.7}{Conclusion}{}% 33
+\BOOKMARK [1][-]{section*.20}{References}{}% 34
+\BOOKMARK [1][-]{section*.21}{Appendices}{}% 35
+\BOOKMARK [1][-]{appendix.A}{MySQL Queries for Exploratory Data Analysis}{}% 36
+\BOOKMARK [1][-]{appendix.B}{MySQL Queries for Detailed Data Analysis}{}% 37
+\BOOKMARK [1][-]{appendix.C}{Python Code for Data Manipulation}{}% 38
+\BOOKMARK [1][-]{appendix.D}{Python Code for Regression Model}{}% 39
+\BOOKMARK [1][-]{appendix.E}{Definition of Key Variables}{}% 40
+\BOOKMARK [1][-]{appendix.F}{Detailed Correlation Analysis Results for Overall Data Centre}{}% 41
+\BOOKMARK [1][-]{appendix.G}{Detailed Correlation Analysis Results for each Chiller}{}% 42
+\BOOKMARK [1][-]{appendix.H}{Full list of Independent Variables for Regression Model}{}% 43
+\BOOKMARK [1][-]{appendix.I}{Summary of the Output of the Regression Model}{}% 44

@@ -1,0 +1,1087 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.0 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nyt/global//global/global}
+    \entry{AHMAD2018460}{article}{}
+      \name{author}{2}{}{%
+        {{uniquename=0,uniquepart=base,hash=1eba736f56f2042c353068b3fc48db6a}{%
+           family={Ahmad},
+           familyi={A\bibinitperiod},
+           given={Tanveer},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=8c80d30a8e4731b960c90ecb9cfb1e11}{%
+           family={Chen},
+           familyi={C\bibinitperiod},
+           given={Huanxin},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{fe0a81cfede3e6347efdd6679caa414f}
+      \strng{fullhash}{fe0a81cfede3e6347efdd6679caa414f}
+      \strng{bibnamehash}{fe0a81cfede3e6347efdd6679caa414f}
+      \strng{authorbibnamehash}{fe0a81cfede3e6347efdd6679caa414f}
+      \strng{authornamehash}{fe0a81cfede3e6347efdd6679caa414f}
+      \strng{authorfullhash}{fe0a81cfede3e6347efdd6679caa414f}
+      \field{sortinit}{A}
+      \field{sortinithash}{d77c7cdd82ff690d4c3ef13216f92f0b}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{This paper depicted the novel data mining based methods that consist of six models for predicting accurate future heating and cooling load demand of water source heat pump, with the objective of enhancing the prediction accuracy and the management of future load. The proposed model was developed to ease generalization to other buildings, by making use of readily available measurements of a comparatively small number of variables related to water source heat pump operation in the building environment. The six models are - tree bagger, Gaussian process regression, multiple linear regression, bagged tree, boosted tree and neural network. The input parameter comprised the prescribed period, external climate data and the diverse load conditions of water source heat pump. The output was electrical power consumption of water source heat pump. In this study, simulations were conducted in three sessions - 7-day, 14-day and 1-month from 8th July to 7th August 2016. The forecast precisions of data mining models were measured by diverse indices. The performance indices which were used in assessing the prediction performance were - mean absolute error, coefficient of correlation, coefficient of variation, root mean square error, mean square error and mean absolute percentage error. The mean absolute percentage error results for 7-day future energy demand forecasting from tree bagger, Gaussian process regression, bagged tree, boosted tree, neural network and multiple linear regression were 3.544\%, 0.405\%, 1.703\%, 1.928\%, 2.592\% and 13.053\%, respectively. Moreover, when the proposed data mining model performance was compared with the existing studies, the mean absolute percentage error of 2.515\% was found out for the first session, 7-day. The results also showed that the six models were efficient in foreseeing the abnormal behavior and future cooling and heating load demand in the building environment.}
+      \field{issn}{0378-7788}
+      \field{journaltitle}{Energy and Buildings}
+      \field{title}{Short and medium-term forecasting of cooling and heating load demand in building environment with data-mining based approaches}
+      \field{volume}{166}
+      \field{year}{2018}
+      \field{pages}{460\bibrangedash 476}
+      \range{pages}{17}
+      \verb{doi}
+      \verb https://doi.org/10.1016/j.enbuild.2018.01.066
+      \endverb
+      \verb{urlraw}
+      \verb http://www.sciencedirect.com/science/article/pii/S0378778817324659
+      \endverb
+      \verb{url}
+      \verb http://www.sciencedirect.com/science/article/pii/S0378778817324659
+      \endverb
+      \keyw{Data mining based approaches,Water source heat pump,Clustering Analysis,Load forecasting}
+    \endentry
+    \entry{edsarx.1402.080420140101}{article}{}
+      \name{author}{4}{}{%
+        {{uniquename=0,uniquepart=base,hash=c67792d3e570a7954e0859d806dece76}{%
+           family={Arjona},
+           familyi={A\bibinitperiod},
+           given={Jordi},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=d292cf4e394b299f0ca15476073dff57}{%
+           family={Chatzipapas},
+           familyi={C\bibinitperiod},
+           given={Angelos},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=c7b9dc5201cee71d6ddef4e3683ff0cb}{%
+           family={Anta},
+           familyi={A\bibinitperiod},
+           given={Antonio\bibnamedelima Fernandez},
+           giveni={A\bibinitperiod\bibinitdelim F\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=6ca75a1a7ecef92daf018c96dd8d5917}{%
+           family={Mancuso},
+           familyi={M\bibinitperiod},
+           given={Vincenzo},
+           giveni={V\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{9dd05ad92e629c1face33d92a954b650}
+      \strng{fullhash}{dfbee785b546e67924201ff1e8de7e4a}
+      \strng{bibnamehash}{9dd05ad92e629c1face33d92a954b650}
+      \strng{authorbibnamehash}{9dd05ad92e629c1face33d92a954b650}
+      \strng{authornamehash}{9dd05ad92e629c1face33d92a954b650}
+      \strng{authorfullhash}{dfbee785b546e67924201ff1e8de7e4a}
+      \field{sortinit}{A}
+      \field{sortinithash}{d77c7cdd82ff690d4c3ef13216f92f0b}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Energy consumption is a growing issue in data centers, impacting their economic viability and their public image. In this work we empirically characterize the power and energy consumed by different types of servers. In particular, in order to understand the behavior of their energy and power consumption, we perform measurements in different servers. In each of them, we exhaustively measure the power consumed by the CPU, the disk, and the network interface under different configurations, identifying the optimal operational levels. One interesting conclusion of our study is that the curve that defines the minimal CPU power as a function of the load is neither linear nor purely convex as has been previously assumed. Moreover, we find that the efficiency of the various server components can be maximized by tuning the CPU frequency and the number of active cores as a function of the system and network load, while the block size of I/O operations should be always maximized by applications.}
+      \field{issn}{14020804}
+      \field{journaltitle}{CoRR}
+      \field{title}{A Measurement-based Analysis of the Energy Consumption of Data Center Servers.}
+      \field{volume}{abs/1402.0804}
+      \field{year}{2014}
+      \verb{urlraw}
+      \verb http://search.ebscohost.com.ezproxy.wit.ie:2048/login.aspx?direct=true&db=edsarx&AN=edsarx.1402.0804&site=eds-live
+      \endverb
+      \verb{url}
+      \verb http://search.ebscohost.com.ezproxy.wit.ie:2048/login.aspx?direct=true&db=edsarx&AN=edsarx.1402.0804&site=eds-live
+      \endverb
+      \keyw{Computer Science - Distributed,Parallel,and Cluster Computing,Computer Science - Performance,B.8.2,C.4}
+    \endentry
+    \entry{edsbas.13818AC20170101}{article}{}
+      \name{author}{3}{}{%
+        {{uniquename=0,uniquepart=base,hash=739a28a67199e695c8e1ea2d47fe0d22}{%
+           family={Avgerinou},
+           familyi={A\bibinitperiod},
+           given={Maria},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=dd764002853c6e7bffccc15ec7984155}{%
+           family={Bertoldi},
+           familyi={B\bibinitperiod},
+           given={Paolo},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=bb4d8225c872440d91bb654e35f93002}{%
+           family={Castellazi},
+           familyi={C\bibinitperiod},
+           given={Luca},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{44e25bca49fd7ae63a26af76c3d04c4c}
+      \strng{fullhash}{44e25bca49fd7ae63a26af76c3d04c4c}
+      \strng{bibnamehash}{44e25bca49fd7ae63a26af76c3d04c4c}
+      \strng{authorbibnamehash}{44e25bca49fd7ae63a26af76c3d04c4c}
+      \strng{authornamehash}{44e25bca49fd7ae63a26af76c3d04c4c}
+      \strng{authorfullhash}{44e25bca49fd7ae63a26af76c3d04c4c}
+      \field{sortinit}{A}
+      \field{sortinithash}{d77c7cdd82ff690d4c3ef13216f92f0b}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Climate change is recognised as one of the key challenges humankind is facing. The Information and Communication Technology (ICT) sector including data centres generates up to 2\% of the global CO2 emissions, a number on par to the aviation sector contribution, and data centres are estimated to have the fastest growing carbon footprint from across the whole ICT sector, mainly due to technological advances such as the cloud computing and the rapid growth of the use of Internet services. There are no recent estimations of the total energy consumption of the European data centre and of their energy efficiency. The aim of this paper is to evaluate, analyse and present the current trends in energy consumption and efficiency in data centres in the European Union using the data submitted by companies participating in the European Code of Conduct for Data Centre Energy Efficiency programme, a voluntary initiative created in 2008 in response to the increasing energy consumption in data centres}
+      \field{issn}{1996-1073}
+      \field{journaltitle}{Energies}
+      \field{month}{10}
+      \field{number}{1470}
+      \field{title}{Trends in Data Centre Energy Consumption under the European Code of Conduct for Data Centre Energy Efficiency.}
+      \field{volume}{10}
+      \field{year}{2017}
+      \verb{urlraw}
+      \verb http://search.ebscohost.com.ezproxy.wit.ie:2048/login.aspx?direct=true&db=edsbas&AN=edsbas.13818AC&site=eds-live
+      \endverb
+      \verb{url}
+      \verb http://search.ebscohost.com.ezproxy.wit.ie:2048/login.aspx?direct=true&db=edsbas&AN=edsbas.13818AC&site=eds-live
+      \endverb
+      \keyw{Data Centre Energy Efficiency,PUE,voluntary agreements,energy efficiency policies,Technology}
+    \endentry
+    \entry{10234066620151001}{article}{}
+      \name{author}{4}{}{%
+        {{uniquename=0,uniquepart=base,hash=50cc5c01544a1fa95324e7a12c638685}{%
+           family={Bi},
+           familyi={B\bibinitperiod},
+           given={Jing},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=037c7465260b3ae20057f171ba2e94a3}{%
+           family={Yuan},
+           familyi={Y\bibinitperiod},
+           given={Haitao},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=61aad424f075bf2139c11d3c101a08d6}{%
+           family={Tie},
+           familyi={T\bibinitperiod},
+           given={Ming},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=2027d87ecbb78155b509c7838f415304}{%
+           family={Tan},
+           familyi={T\bibinitperiod},
+           given={Wei},
+           giveni={W\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{bd9944b5a0df36cfba3081f01f6c7d50}
+      \strng{fullhash}{2ba99c6520b9ee9b03c29d1c952a638a}
+      \strng{bibnamehash}{bd9944b5a0df36cfba3081f01f6c7d50}
+      \strng{authorbibnamehash}{bd9944b5a0df36cfba3081f01f6c7d50}
+      \strng{authornamehash}{bd9944b5a0df36cfba3081f01f6c7d50}
+      \strng{authorfullhash}{2ba99c6520b9ee9b03c29d1c952a638a}
+      \field{sortinit}{B}
+      \field{sortinithash}{276475738cc058478c1677046f857703}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Dynamic virtualised resource allocation is the key to quality of service assurance for multi-tier web application services in cloud data centre. In this paper, we develop a self-management architecture of cloud data centres with virtualisation mechanism for multi-tier web application services. Based on this architecture, we establish a flexible hybrid queueing model to determine the amount of virtual machines for each tier of virtualised application service environments. Besides, we propose a non-linear constrained optimisation problem with restrictions defined in service level agreement. Furthermore, we develop a heuristic mixed optimisation algorithm to maximise the profit of cloud infrastructure providers, and to meet performance requirements from different clients as well. Finally, we compare the effectiveness of our dynamic allocation strategy with two other allocation strategies. The simulation results show that the proposed resource allocation method is efficient in improving t}
+      \field{issn}{17517575}
+      \field{journaltitle}{Enterprise Information Systems}
+      \field{number}{7}
+      \field{title}{SLA-based optimisation of virtualised resource for multi-tier web applications in cloud data centres.}
+      \field{volume}{9}
+      \field{year}{2015}
+      \field{pages}{743\bibrangedash 767}
+      \range{pages}{25}
+      \verb{urlraw}
+      \verb http://search.ebscohost.com.ezproxy.wit.ie:2048/login.aspx?direct=true&db=bth&AN=102340666&site=eds-live
+      \endverb
+      \verb{url}
+      \verb http://search.ebscohost.com.ezproxy.wit.ie:2048/login.aspx?direct=true&db=bth&AN=102340666&site=eds-live
+      \endverb
+      \keyw{Service level agreements,Data mining,Computer architecture,Cloud computing,Web-based user interfaces,cloud data centre,dynamic resource allocation,multi-tier web application,performance optimisation,service level agreement (SLA),virtualisation}
+    \endentry
+    \entry{ELK}{misc}{}
+      \field{sortinit}{E}
+      \field{sortinithash}{f615fb9c6fba11c6f962fb3fd599810e}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{https://www.elastic.co/elk-stack}}
+      \field{note}{Accessed: 2019-04-29}
+      \field{title}{{Elastic Stack}}
+      \field{year}{2019}
+    \endentry
+    \entry{FAN2018296}{article}{}
+      \name{author}{4}{}{%
+        {{uniquename=0,uniquepart=base,hash=21608dbc6bd143a0d0fa75c074445a4d}{%
+           family={Fan},
+           familyi={F\bibinitperiod},
+           given={Cheng},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=9709b2323737c00f5fecdcd701fc99aa}{%
+           family={Xiao},
+           familyi={X\bibinitperiod},
+           given={Fu},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=ebe28d0609ed4e6c713cfd51609256af}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Zhengdao},
+           giveni={Z\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=60d1d9e5d9448cca12f295052649040b}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Jiayuan},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{eb03e54791cd5784d8953e9488410c18}
+      \strng{fullhash}{edd34eff9a35774b86b573aba7e60009}
+      \strng{bibnamehash}{eb03e54791cd5784d8953e9488410c18}
+      \strng{authorbibnamehash}{eb03e54791cd5784d8953e9488410c18}
+      \strng{authornamehash}{eb03e54791cd5784d8953e9488410c18}
+      \strng{authorfullhash}{edd34eff9a35774b86b573aba7e60009}
+      \field{sortinit}{F}
+      \field{sortinithash}{669c706c6f1fbf3b5a83d26f1d9e9e72}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Building operations account for the largest proportion of energy use throughout the building life cycle. The energy saving potential is considerable taking into account the existence of a wide variety of building operation deficiencies. The advancement in information technologies has made modern buildings to be not only energy-intensive, but also information-intensive. Massive amounts of building operational data, which are in essence the reflection of actual building operating conditions, are available for knowledge discovery. It is very promising to extract potentially useful insights from big building operational data, based on which actionable measures for energy efficiency enhancement are devised. Data mining is an advanced technology for analyzing big data. It consists of two main types of data analytics, i.e., supervised and unsupervised analytics. Despite of the power of supervised analytics in predictive modeling, unsupervised analytics are more practical and promising in discovering novel knowledge given limited prior knowledge. This paper provides a comprehensive review on the current utilization of unsupervised data analytics in mining massive building operational data. The commonly used unsupervised analytics are summarized according to their knowledge representations and applications. The challenges and opportunities are elaborated as guidance for future research in this multi-disciplinary field.}
+      \field{issn}{0378-7788}
+      \field{journaltitle}{Energy and Buildings}
+      \field{title}{Unsupervised data analytics in mining big building operational data for energy efficiency enhancement: A review}
+      \field{volume}{159}
+      \field{year}{2018}
+      \field{pages}{296\bibrangedash 308}
+      \range{pages}{13}
+      \verb{doi}
+      \verb https://doi.org/10.1016/j.enbuild.2017.11.008
+      \endverb
+      \verb{urlraw}
+      \verb http://www.sciencedirect.com/science/article/pii/S0378778817326671
+      \endverb
+      \verb{url}
+      \verb http://www.sciencedirect.com/science/article/pii/S0378778817326671
+      \endverb
+      \keyw{Unsupervised data mining,Big data,Building operational performance,Building energy management,Building energy efficiency}
+    \endentry
+    \entry{13375977120180401}{article}{}
+      \name{author}{2}{}{%
+        {{uniquename=0,uniquepart=base,hash=276c0e38e3cfee902adf34b4c9cc09b5}{%
+           family={Girma},
+           familyi={G\bibinitperiod},
+           given={Anteneh},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=1,uniquepart=given,hash=2053a78b8c7e674d28eabbe236f2f077}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Ping},
+           giveni={P\bibinitperiod},
+           givenun=1}}%
+      }
+      \strng{namehash}{69669edd6931ac7a0b128e4b2cce35b3}
+      \strng{fullhash}{69669edd6931ac7a0b128e4b2cce35b3}
+      \strng{bibnamehash}{69669edd6931ac7a0b128e4b2cce35b3}
+      \strng{authorbibnamehash}{69669edd6931ac7a0b128e4b2cce35b3}
+      \strng{authornamehash}{69669edd6931ac7a0b128e4b2cce35b3}
+      \strng{authorfullhash}{69669edd6931ac7a0b128e4b2cce35b3}
+      \field{sortinit}{G}
+      \field{sortinithash}{5e8d2bf9d38de41b1528bd307546008f}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{15297314}
+      \field{journaltitle}{Issues in Information Systems}
+      \field{number}{2}
+      \field{title}{An efficient hybrid model for detecting distributed denial of service (DDOS) attacks in cloud computing using multivariate correlation and data mining clustering techniques.}
+      \field{volume}{19}
+      \field{year}{2018}
+      \field{pages}{1}
+      \range{pages}{1}
+      \keyw{DENIAL of service attacks,CLOUD computing,DATA mining,Cloud Security,Data Mining,DDoS Detection,DSACAN Clustering,Multivariate Correlation}
+    \endentry
+    \entry{JEFFREYKUO2018120}{article}{}
+      \name{author}{3}{}{%
+        {{uniquename=0,uniquepart=base,hash=675e000fc7db0378ad2fa4eee634f143}{%
+           family={Kuo},
+           familyi={K\bibinitperiod},
+           given={Chung-Feng\bibnamedelima Jeffrey},
+           giveni={C\bibinithyphendelim F\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=418ca2415738c03c6f9db60981f73899}{%
+           family={Lin},
+           familyi={L\bibinitperiod},
+           given={Chieh-Hung},
+           giveni={C\bibinithyphendelim H\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=6e6e4e83ee7ddf2fb72ee1aebc06c1d3}{%
+           family={Lee},
+           familyi={L\bibinitperiod},
+           given={Ming-Hao},
+           giveni={M\bibinithyphendelim H\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{9aa09e9fc4f5bbf31138ddd95469f558}
+      \strng{fullhash}{9aa09e9fc4f5bbf31138ddd95469f558}
+      \strng{bibnamehash}{9aa09e9fc4f5bbf31138ddd95469f558}
+      \strng{authorbibnamehash}{9aa09e9fc4f5bbf31138ddd95469f558}
+      \strng{authornamehash}{9aa09e9fc4f5bbf31138ddd95469f558}
+      \strng{authorfullhash}{9aa09e9fc4f5bbf31138ddd95469f558}
+      \field{sortinit}{K}
+      \field{sortinithash}{9fd838a31ba64d981e8f44562bd33f89}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{This study applies big data mining, machine learning analysis technique and uses the Waikato Environment for Knowledge Analysis (WEKA) as a tool to discuss the convenience stores energy consumption performance in Taiwan which consists of (a). Influential factors of architectural space environment and geographical conditions; (b). Influential factors of management type; (c). Influential factors of business equipment; (d). Influential factors of local climatic conditions; (e). Influential factors of service area socioeconomic conditions. The survey data of 1,052 chain convenience stores belong to 7-Eleven, Family Mart and Hi-Life groups by Taiwan Architecture and Building Center (TABC) in 2014. The implicit knowledge will be explored in order to improve the traditional analysis technique which is unlikely to build a model for complex, inexact and uncertain dynamic energy consumption system for convenience stores. The analysis process comprises of (a). Problem definition and objective setting; (b). Data source selection; (c). Data collection; (d). Data preprocessing/preparation; (e). Data attributes selection; (f). Data mining and model construction; (g). Results analysis and evaluation; (h). Knowledge discovery and dissemination. The key factors influencing the convenience stores energy consumption and the influence intensity order can be explored by data attributes selection. The numerical prediction model for energy consumption is built by applying regression analysis and classification techniques. The optimization thresholds of various influential factors are obtained. The different cluster data are compared by using clustering analysis to verify the correlation between the factors influencing the convenience stores energy consumption characteristic. The implicit knowledge of energy consumption characteristic obtained by the aforesaid analysis can be used to (a). Provide the owners with accurate predicted energy consumption performance to optimize architectural space, business equipment and operations management mode; (b). The design planners can obtain the optimum design proposal of Cost Performance Ratio (C/P) by planning the thresholds of various key factors and the validation of prediction model; (c). Provide decision support for government energy and environment departments, to make energy saving and carbon emission reduction policies, in order to estimate and set the energy consumption scenarios of convenience store industry.}
+      \field{issn}{0378-7788}
+      \field{journaltitle}{Energy and Buildings}
+      \field{title}{Analyze the energy consumption characteristics and affecting factors of Taiwan's convenience stores-using the big data mining approach}
+      \field{volume}{168}
+      \field{year}{2018}
+      \field{pages}{120\bibrangedash 136}
+      \range{pages}{17}
+      \verb{doi}
+      \verb https://doi.org/10.1016/j.enbuild.2018.03.021
+      \endverb
+      \verb{urlraw}
+      \verb http://www.sciencedirect.com/science/article/pii/S0378778817334345
+      \endverb
+      \verb{url}
+      \verb http://www.sciencedirect.com/science/article/pii/S0378778817334345
+      \endverb
+      \keyw{Convenience store,Data mining,Machine learning,Energy consumption characteristics,Energy consumption affecting factor}
+    \endentry
+    \entry{edsdoj.99f37e7899fb4fcaabdaa81e395626c420180101}{article}{}
+      \name{author}{2}{}{%
+        {{uniquename=0,uniquepart=base,hash=e31d5ca7aee7f8c57ec52bcf71a5153c}{%
+           family={Levy},
+           familyi={L\bibinitperiod},
+           given={Moses},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=db2cd261eab411521c043982a600c917}{%
+           family={Raviv},
+           familyi={R\bibinitperiod},
+           given={Daniel},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{b1b878278fbd528cb8161e4b061d1e81}
+      \strng{fullhash}{b1b878278fbd528cb8161e4b061d1e81}
+      \strng{bibnamehash}{b1b878278fbd528cb8161e4b061d1e81}
+      \strng{authorbibnamehash}{b1b878278fbd528cb8161e4b061d1e81}
+      \strng{authornamehash}{b1b878278fbd528cb8161e4b061d1e81}
+      \strng{authorfullhash}{b1b878278fbd528cb8161e4b061d1e81}
+      \field{sortinit}{L}
+      \field{sortinithash}{2c7981aaabc885868aba60f0c09ee20f}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Data centers’ mission critical nature, significant power consumption, and increasing reliance on them for digital information, have created an urgent need to monitor and adequately manage these facilities. Metrics are a key part of this effort as their indicators raise flags that lead to optimization of resource utilization. A thorough review of existing data center metrics presented in this paper shows that while existing metrics are valuable, they overlook important aspects. New metrics should enable a holistic understanding of the data center behavior. This paper proposes a novel framework using a multidimensional approach for a new family of data center metrics. Performance is examined across four different sub-dimensions: productivity, efficiency, sustainability, and operations. Risk associated with each of those sub-dimensions is contemplated. External risks are introduced, namely site risk, as another dimension of the metrics, and makes reference to a methodology that explains}
+      \field{issn}{2415-6698}
+      \field{journaltitle}{Advances in Science, Technology and Engineering Systems, Vol 3, Iss 2, Pp 238-251 (2018)}
+      \field{number}{2}
+      \field{title}{An Overview of Data Center Metrics and a Novel Approach for a New Family of Metrics.}
+      \field{year}{2018}
+      \field{pages}{238}
+      \range{pages}{1}
+      \verb{urlraw}
+      \verb http://search.ebscohost.com.ezproxy.wit.ie:2048/login.aspx?direct=true&db=edsdoj&AN=edsdoj.99f37e7899fb4fcaabdaa81e395626c4&site=eds-live
+      \endverb
+      \verb{url}
+      \verb http://search.ebscohost.com.ezproxy.wit.ie:2048/login.aspx?direct=true&db=edsdoj&AN=edsdoj.99f37e7899fb4fcaabdaa81e395626c4&site=eds-live
+      \endverb
+      \keyw{Data center,Mission critical,Metric,Measurement,Performance,Efficiency,Productivity,Sustainability,Operations,Infrastructure,Management,Risk,Site,Technology,Science}
+    \endentry
+    \entry{edsjsr.4134817120120101}{article}{}
+      \name{author}{2}{}{%
+        {{uniquename=0,uniquepart=base,hash=6ba98b57fe1f95279a7b276f87e11088}{%
+           family={Liu},
+           familyi={L\bibinitperiod},
+           given={Jie},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=647cb9057d718436eb57b14762c53758}{%
+           family={Terzis},
+           familyi={T\bibinitperiod},
+           given={Andreas},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{e68385757c57d20a913884499d850d73}
+      \strng{fullhash}{e68385757c57d20a913884499d850d73}
+      \strng{bibnamehash}{e68385757c57d20a913884499d850d73}
+      \strng{authorbibnamehash}{e68385757c57d20a913884499d850d73}
+      \strng{authornamehash}{e68385757c57d20a913884499d850d73}
+      \strng{authorfullhash}{e68385757c57d20a913884499d850d73}
+      \field{sortinit}{L}
+      \field{sortinithash}{2c7981aaabc885868aba60f0c09ee20f}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Data centres are large energy consumers today, and their consumption is expected to increase further, driven by the growth in cloud services. The large monetary cost and the environmental impact of this consumption have motivated operators to optimize data centre management. We argue that one of the underlying reasons for the low-energy utilization is the lack of visibility into a data centre's highly dynamic operating conditions. Wireless sensor networks promise to remove this veil of uncertainty by delivering large volumes of data collected at high spatial and temporal fidelities. The paper summarizes data centre operations in order to describe the parameters that a data centre sensing network should collect and motivate the challenges that such a network faces. We present technical approaches for the problems of data collection and management and close with an overview of a data centre genome, an end-to-end data centre sensing system.}
+      \field{issn}{1364503X}
+      \field{journaltitle}{Philosophical Transactions: Mathematical, Physical and Engineering Sciences}
+      \field{number}{1958}
+      \field{title}{Sensing data centres for energy efficiency.}
+      \field{year}{2012}
+      \field{pages}{136}
+      \range{pages}{1}
+      \verb{urlraw}
+      \verb http://search.ebscohost.com.ezproxy.wit.ie:2048/login.aspx?direct=true&db=edsjsr&AN=edsjsr.41348171&site=eds-live
+      \endverb
+      \verb{url}
+      \verb http://search.ebscohost.com.ezproxy.wit.ie:2048/login.aspx?direct=true&db=edsjsr&AN=edsjsr.41348171&site=eds-live
+      \endverb
+      \keyw{Computer networking,Measuring instruments,Productivity,Atmospheric chemistry,Heat transfer,Consumption,Computer engineering,Tools,Commercial production,Meteorology,Data management,Databases,Thermodynamics,Data collection,Consumer economics,Computer science,Technology,Business economics,Atmospheric sciences,Information management,Data products,Physics,Research methods,Economic disciplines,Applied sciences,Business,Environmental studies,Information science,Physical sciences,Economics,Review}
+    \endentry
+    \entry{edssch.qt9c84f49g20130101}{article}{}
+      \name{author}{2}{}{%
+        {{uniquename=0,uniquepart=base,hash=d6265061822bdc247b1e7a7dfc0a5885}{%
+           family={Mahdavi},
+           familyi={M\bibinitperiod},
+           given={Rod},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=a5157184ed20f573711376452881ad84}{%
+           family={Tschudi},
+           familyi={T\bibinitperiod},
+           given={William},
+           giveni={W\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{f83b49cfa885fdc4756370c3e71cf59e}
+      \strng{fullhash}{f83b49cfa885fdc4756370c3e71cf59e}
+      \strng{bibnamehash}{f83b49cfa885fdc4756370c3e71cf59e}
+      \strng{authorbibnamehash}{f83b49cfa885fdc4756370c3e71cf59e}
+      \strng{authornamehash}{f83b49cfa885fdc4756370c3e71cf59e}
+      \strng{authorfullhash}{f83b49cfa885fdc4756370c3e71cf59e}
+      \field{sortinit}{M}
+      \field{sortinithash}{cfd219b90152c06204fab207bc6c7cab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Lawrence Berkely National Library}
+      \field{title}{Wireless Sensor Network for Improving the Energy Efficiency of Data Centers.}
+      \field{year}{2013}
+      \verb{urlraw}
+      \verb http://search.ebscohost.com.ezproxy.wit.ie:2048/login.aspx?direct=true&db=edssch&AN=edssch.qt9c84f49g&site=eds-live
+      \endverb
+      \verb{url}
+      \verb http://search.ebscohost.com.ezproxy.wit.ie:2048/login.aspx?direct=true&db=edssch&AN=edssch.qt9c84f49g&site=eds-live
+      \endverb
+      \keyw{Environmental Energy Technologies,Environmental Energy Technologies,Engineering,Environmental Energy Technologies,Data center,wireless sensor network,energy efficiency}
+    \endentry
+    \entry{Makris2017}{thesis}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=4de37d87257c2a941ab95aa2abad5149}{%
+           family={Makris},
+           familyi={M\bibinitperiod},
+           given={Theodosios},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{institution}{1}{%
+        {Aalto University}%
+      }
+      \strng{namehash}{4de37d87257c2a941ab95aa2abad5149}
+      \strng{fullhash}{4de37d87257c2a941ab95aa2abad5149}
+      \strng{bibnamehash}{4de37d87257c2a941ab95aa2abad5149}
+      \strng{authorbibnamehash}{4de37d87257c2a941ab95aa2abad5149}
+      \strng{authornamehash}{4de37d87257c2a941ab95aa2abad5149}
+      \strng{authorfullhash}{4de37d87257c2a941ab95aa2abad5149}
+      \field{sortinit}{M}
+      \field{sortinithash}{cfd219b90152c06204fab207bc6c7cab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Measuring and Analyzing Energy Consumption of the Data Center}
+      \field{type}{mathesis}
+      \field{year}{2017}
+    \endentry
+    \entry{edsbas.DFD37F4F20160101}{article}{}
+      \name{author}{4}{}{%
+        {{uniquename=0,uniquepart=base,hash=e5b4697b07e726e2da0451b836ce3b9f}{%
+           family={Marcos-Jorquera},
+           familyi={M\bibinithyphendelim J\bibinitperiod},
+           given={Diego},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=08c2d551618ff4814a3b3b61a2b7b673}{%
+           family={Gilart-Inglesias},
+           familyi={G\bibinithyphendelim I\bibinitperiod},
+           given={Virgilio},
+           giveni={V\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=1208154669e80c6cd8e3b2baab7305ab}{%
+           family={More-Gimeno},
+           familyi={M\bibinithyphendelim G\bibinitperiod},
+           given={Francisco\bibnamedelima Jose},
+           giveni={F\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=e0fbdb6c4ce8587835da201b2ac52203}{%
+           family={Gil-Martinez-Abarca},
+           familyi={G\bibinithyphendelim M\bibinithyphendelim A\bibinitperiod},
+           given={Juan\bibnamedelima Antonia},
+           giveni={J\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{bbcae423c63950714dbdefb5de53e5b9}
+      \strng{fullhash}{e579aaefad712298d87f382535e42e8a}
+      \strng{bibnamehash}{bbcae423c63950714dbdefb5de53e5b9}
+      \strng{authorbibnamehash}{bbcae423c63950714dbdefb5de53e5b9}
+      \strng{authornamehash}{bbcae423c63950714dbdefb5de53e5b9}
+      \strng{authorfullhash}{e579aaefad712298d87f382535e42e8a}
+      \field{sortinit}{M}
+      \field{sortinithash}{cfd219b90152c06204fab207bc6c7cab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Information technologies (IT) currently represent 2\% of CO2 emissions. In recent years, a wide variety of IT solutions have been proposed, focused on increasing the energy efficiency of network data centers. Monitoring is one of the fundamental pillars of these systems, providing the information necessary for adequate decision making. However, today’s monitoring systems (MSs) are partial, specific and highly coupled solutions. This study proposes a model for monitoring data centers that serves as a basis for energy saving systems, offered as a value-added service embedded in a device with low cost and power consumption. The proposal is general in nature, comprehensive, scalable and focused on heterogeneous environments, and it allows quick adaptation to the needs of changing and dynamic environments. Further, a prototype of the system has been implemented in several devices, which has allowed validation of the proposal in addition to identification of the minimum hardware profile requ}
+      \field{issn}{9070515}
+      \field{journaltitle}{Energies}
+      \field{month}{9}
+      \field{number}{515}
+      \field{title}{Smart Monitoring Embedded Service for Energy-Efficient and Sustainable Management in Data Centers.}
+      \field{volume}{9}
+      \field{year}{2016}
+      \verb{urlraw}
+      \verb http://search.ebscohost.com.ezproxy.wit.ie:2048/login.aspx?direct=true&db=edsbas&AN=edsbas.DFD37F4F&site=eds-live
+      \endverb
+      \verb{url}
+      \verb http://search.ebscohost.com.ezproxy.wit.ie:2048/login.aspx?direct=true&db=edsbas&AN=edsbas.DFD37F4F&site=eds-live
+      \endverb
+      \keyw{Monitoring energy-consumption,Energy-efficient networks,Sustainable network,Service oriented architecture,Embedded systems,Arquitectura y Tecnología de Computadores}
+    \endentry
+    \entry{edsbas.A50BA51A20120101}{proceedings}{}
+      \name{author}{5}{}{%
+        {{uniquename=0,uniquepart=base,hash=ea064620f07f8cd32bb1bb025a3ccf31}{%
+           family={Masanet},
+           familyi={M\bibinitperiod},
+           given={Eric\bibnamedelima R.},
+           giveni={E\bibinitperiod\bibinitdelim R\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=24fdad9cd62229b8bbd9e6d8514beb97}{%
+           family={Brown},
+           familyi={B\bibinitperiod},
+           given={Richard\bibnamedelima E.},
+           giveni={R\bibinitperiod\bibinitdelim E\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=8096724142e90c2bbd9770089f76969b}{%
+           family={Shehabi},
+           familyi={S\bibinitperiod},
+           given={Arman},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=398a7c2f22c2598f8bfbbed98067bcfa}{%
+           family={Koomey},
+           familyi={K\bibinitperiod},
+           given={Jonathan\bibnamedelima G.},
+           giveni={J\bibinitperiod\bibinitdelim G\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=6297856c72700b22d9a7799f18a60677}{%
+           family={Nordman},
+           familyi={N\bibinitperiod},
+           given={Bruce},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{organization}{1}{%
+        {Proceedings of the IEEE}%
+      }
+      \strng{namehash}{d06881a0bb5ce5ac0108575fd768cc01}
+      \strng{fullhash}{42fe6faa66540a9c2ecc84a8ad93e013}
+      \strng{bibnamehash}{d06881a0bb5ce5ac0108575fd768cc01}
+      \strng{authorbibnamehash}{d06881a0bb5ce5ac0108575fd768cc01}
+      \strng{authornamehash}{d06881a0bb5ce5ac0108575fd768cc01}
+      \strng{authorfullhash}{42fe6faa66540a9c2ecc84a8ad93e013}
+      \field{sortinit}{M}
+      \field{sortinithash}{cfd219b90152c06204fab207bc6c7cab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Data centers are a significant and growing component of electricity demand in the United States. This paper presents a bottom up model that can be used to estimate total data center electricity demand within a region as well as the potential electricity savings associated with energy efficiency improvements. The model is applied to estimate 2008 U.S. data center electricity demand and the technical potential for electricity savings associated with major measures for IT devices and infrastructure equipment. Results suggest that 2008 demand was approximately 69 billion kilowatt-hours (1.8percent of 2008 total U.S. electricity sales) and that it may be technically feasible to reduce this demand by up to 80percent (to 13 billion kilowatt-hours) through aggressive pursuit of energy efficiency measures. Measure-level savings estimates are provided, which shed light on the relative importance of different measures at the national level. Measures applied to servers are found to have the great}
+      \field{title}{Estimating the Energy Use and Efficiency Potential of U.S. Data Centers.}
+      \field{year}{2011}
+      \verb{urlraw}
+      \verb http://search.ebscohost.com.ezproxy.wit.ie:2048/login.aspx?direct=true&db=edsbas&AN=edsbas.A50BA51A&site=eds-live
+      \endverb
+      \verb{url}
+      \verb http://search.ebscohost.com.ezproxy.wit.ie:2048/login.aspx?direct=true&db=edsbas&AN=edsbas.A50BA51A&site=eds-live
+      \endverb
+      \keyw{Environmental Energy Technologies,data centers,energy demand modeling,energy efficiency,information technology}
+    \endentry
+    \entry{edseee.792155120170101}{article}{}
+      \name{author}{5}{}{%
+        {{uniquename=0,uniquepart=base,hash=e63f41ca57a569b4ec2605f5d2568856}{%
+           family={Reddy},
+           familyi={R\bibinitperiod},
+           given={V.\bibnamedelimi Dinesh},
+           giveni={V\bibinitperiod\bibinitdelim D\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=d0820a033af5660ba1b3d24ccb5628aa}{%
+           family={Setz},
+           familyi={S\bibinitperiod},
+           given={Brian},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=0d4dcc994fece44f4ed6872d271aeb5d}{%
+           family={Rao},
+           familyi={R\bibinitperiod},
+           given={G.},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=ccb8d5fe0a7daef3fbce0e89ba845af7}{%
+           family={Gangadharan},
+           familyi={G\bibinitperiod},
+           given={G.R.},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=61c9418bf8975db8e23b20012c036b6a}{%
+           family={Aiello},
+           familyi={A\bibinitperiod},
+           given={Marco},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{e92ee0fb5da3e06ae2eda593f85593b3}
+      \strng{fullhash}{efae2df388c3934a0eeb380ef4b9bde9}
+      \strng{bibnamehash}{e92ee0fb5da3e06ae2eda593f85593b3}
+      \strng{authorbibnamehash}{e92ee0fb5da3e06ae2eda593f85593b3}
+      \strng{authornamehash}{e92ee0fb5da3e06ae2eda593f85593b3}
+      \strng{authorfullhash}{efae2df388c3934a0eeb380ef4b9bde9}
+      \field{sortinit}{R}
+      \field{sortinithash}{da6b42bd3ab22fee61abed031ee405f7}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{There are a multitude of metrics available to analyze individual key performance indicators of data centers. In order to predict growth or set effective goals, it is important to choose the correct metric and be aware of their expressivity and potential limitations. As cloud based services and the use of ICT infrastructure are growing globally, continuous monitoring and measuring of data center facilities are becoming essential to ensure effective and efficient operations. In this work, we explore the diverse metrics that are currently available to measure numerous data center infrastructure components. We propose a taxonomy of metrics based on core data center dimensions. Based on our observations, we argue for the design of new metrics considering factors such as age, location, and data center typology (e.g., co-location center), thus assisting in the strategic data center design and operations processes.}
+      \field{issn}{2377-3782}
+      \field{journaltitle}{IEEE Transactions on Sustainable Computing, Sustainable Computing, IEEE Transactions on, IEEE Trans. Sustain. Comput}
+      \field{number}{3}
+      \field{title}{Metrics for Sustainable Data Centers.}
+      \field{year}{2017}
+      \field{pages}{290}
+      \range{pages}{1}
+      \verb{urlraw}
+      \verb http://search.ebscohost.com.ezproxy.wit.ie:2048/login.aspx?direct=true&db=edseee&AN=edseee.7921551&site=eds-live
+      \endverb
+      \verb{url}
+      \verb http://search.ebscohost.com.ezproxy.wit.ie:2048/login.aspx?direct=true&db=edseee&AN=edseee.7921551&site=eds-live
+      \endverb
+      \keyw{Computing and Processing,Measurement,Servers,Green products,Cooling,Taxonomy,Security,Monitoring,Data center,metrics/measurements,green computing,energy efficiency,sustainability,taxonomy}
+    \endentry
+    \entry{edsdoj.47fdd5c4e23a43e3aa37ddd2fb75d82b20160101}{article}{}
+      \name{author}{3}{}{%
+        {{uniquename=0,uniquepart=base,hash=ddac49dd536dc05097e007c568945869}{%
+           family={Rygielski},
+           familyi={R\bibinitperiod},
+           given={Piotr},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=4de0f4299be144a65505410b920314e7}{%
+           family={Kounev},
+           familyi={K\bibinitperiod},
+           given={Samuel},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=809fd015f26b3112037d5ec102552941}{%
+           family={Tran-Gia},
+           familyi={T\bibinithyphendelim G\bibinitperiod},
+           given={Phuoc},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{fcbfc411c5982e12c211063f8fd74c69}
+      \strng{fullhash}{fcbfc411c5982e12c211063f8fd74c69}
+      \strng{bibnamehash}{fcbfc411c5982e12c211063f8fd74c69}
+      \strng{authorbibnamehash}{fcbfc411c5982e12c211063f8fd74c69}
+      \strng{authornamehash}{fcbfc411c5982e12c211063f8fd74c69}
+      \strng{authorfullhash}{fcbfc411c5982e12c211063f8fd74c69}
+      \field{sortinit}{R}
+      \field{sortinithash}{da6b42bd3ab22fee61abed031ee405f7}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Using different modeling and simulation approaches for predicting network performance requires extensive experience and involves a number of time consuming manual steps regarding each of the modeling formalisms. In this paper, we propose a generic approach to modeling the performance of data center networks. The approach offers multiple performance models but requires to use only a single modeling language. We propose a two-step modeling methodology, in which a high-level descriptive model of the network is built in the first step, and in the second step model-to-model transformations are used to automatically transform the descriptive model to different network simulation models. We automatically generate three performance models defined at different levels of abstraction to analyze network throughput. By offering multiple simulation models in parallel, we provide flexibility in trading-off between the modeling accuracy and the simulation overhead. We analyze the simulation models by}
+      \field{issn}{2032-9407}
+      \field{journaltitle}{EAI Endorsed Transactions on Scalable Information Systems, Vol 3, Iss 9, Pp 1-10 (2016)}
+      \field{number}{9}
+      \field{title}{Flexible Performance Prediction of Data Center Networks using Automatically Generated Simulation Models.}
+      \field{year}{2016}
+      \field{pages}{1}
+      \range{pages}{1}
+      \verb{urlraw}
+      \verb http://search.ebscohost.com.ezproxy.wit.ie:2048/login.aspx?direct=true&db=edsdoj&AN=edsdoj.47fdd5c4e23a43e3aa37ddd2fb75d82b&site=eds-live
+      \endverb
+      \verb{url}
+      \verb http://search.ebscohost.com.ezproxy.wit.ie:2048/login.aspx?direct=true&db=edsdoj&AN=edsdoj.47fdd5c4e23a43e3aa37ddd2fb75d82b&site=eds-live
+      \endverb
+      \keyw{performance modeling,data center networks,meta-modeling,Management information systems,T58.6-58.62}
+    \endentry
+    \entry{13090171620180801}{article}{}
+      \name{author}{4}{}{%
+        {{uniquename=0,uniquepart=base,hash=89055b306dce76b39e59df8d676b9e0f}{%
+           family={Sönmez},
+           familyi={S\bibinitperiod},
+           given={Ferdi},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=b088c2c2f56dcfdc10fa3f4abebaa37e}{%
+           family={Zontul},
+           familyi={Z\bibinitperiod},
+           given={Metin},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=6e3caaad5243867f6cff779fcee0ff4e}{%
+           family={Kaynar},
+           familyi={K\bibinitperiod},
+           given={Oğuz},
+           giveni={O\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=f660af8347a32ee710853ed4dcce0fca}{%
+           family={Tutar},
+           familyi={T\bibinitperiod},
+           given={Hayati},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{4641d90910d27a56654e4c56e64814cc}
+      \strng{fullhash}{82f86a37f7d29530dfac1bd4a412382b}
+      \strng{bibnamehash}{4641d90910d27a56654e4c56e64814cc}
+      \strng{authorbibnamehash}{4641d90910d27a56654e4c56e64814cc}
+      \strng{authornamehash}{4641d90910d27a56654e4c56e64814cc}
+      \strng{authorfullhash}{82f86a37f7d29530dfac1bd4a412382b}
+      \field{sortinit}{S}
+      \field{sortinithash}{322b1d5276f2f6c1bccdcd15920dbee6}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Although there are various studies on anomaly detection, effective and simple anomaly detection approaches are necessary as the inadequacy of appropriate ways for substantial network environments. In the existing analysis methods, it is seen that the methods of preliminary analysis are generally used, the extrapolations and probabilities are not taken into account and the unsupervised neural network (NN) methods are not used enough. As an alternative, the use of the Self-Organizing Maps has been preferred in the study. In other studies, analysis of data obtained from network traffic is analyzed, here, analysis of other information systems data and suggestions for alternative solutions are given, too. In addition, in-memory database systems have been used in practice in order to enable faster processing in analysis studies, due to the large size of data to be analyzed in large-scale network environments. An analysis of the application log data obtained from the management tools in the}
+      \field{issn}{13014048}
+      \field{journaltitle}{Sakarya University Journal of Science}
+      \field{number}{4}
+      \field{title}{Anomaly Detection Using Data Mining Methods in IT Systems: A Decision Support Application.}
+      \field{volume}{22}
+      \field{year}{2018}
+      \field{pages}{1109}
+      \range{pages}{1}
+      \verb{urlraw}
+      \verb http://search.ebscohost.com.ezproxy.wit.ie:2048/login.aspx?direct=true&db=edb&AN=130901716&site=eds-live
+      \endverb
+      \verb{url}
+      \verb http://search.ebscohost.com.ezproxy.wit.ie:2048/login.aspx?direct=true&db=edb&AN=130901716&site=eds-live
+      \endverb
+      \keyw{DATA mining,INFORMATION technology,BIG data,Anomaly Detection,Artificial Neural Networks,Data Analysis,In-Memory Database System,Self-Organizing Maps}
+    \endentry
+    \entry{TSSG}{misc}{}
+      \field{sortinit}{T}
+      \field{sortinithash}{6f7aff9db9dcfeb7f95fd5bbd2f78df9}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{http://www.tssg.org/research/research-supports/infrastructure-group-2/}}
+      \field{note}{Accessed: 2018-12-12}
+      \field{title}{{TSSG Infrastructure Group}}
+      \field{year}{2018}
+    \endentry
+    \entry{VASUDEVAN201794}{article}{}
+      \name{author}{4}{}{%
+        {{uniquename=0,uniquepart=base,hash=3e95ebccd076ab8fbe8a7fd8577c14ae}{%
+           family={Vasudevan},
+           familyi={V\bibinitperiod},
+           given={Meera},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=3ef2a786bc1eb6ef1798ed507bdeea89}{%
+           family={Tian},
+           familyi={T\bibinitperiod},
+           given={Yu-Chu},
+           giveni={Y\bibinithyphendelim C\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=012c0189ffd36f50375d0220758a0a90}{%
+           family={Tang},
+           familyi={T\bibinitperiod},
+           given={Maolin},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=df8cc5d81b205a391d6413044ad409ba}{%
+           family={Kozan},
+           familyi={K\bibinitperiod},
+           given={Erhan},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{b6b305fa967a703d41911cc207437e26}
+      \strng{fullhash}{8ffa9977024971fd143a9d19775b83fb}
+      \strng{bibnamehash}{b6b305fa967a703d41911cc207437e26}
+      \strng{authorbibnamehash}{b6b305fa967a703d41911cc207437e26}
+      \strng{authornamehash}{b6b305fa967a703d41911cc207437e26}
+      \strng{authorfullhash}{8ffa9977024971fd143a9d19775b83fb}
+      \field{sortinit}{V}
+      \field{sortinithash}{75dd7385c90b2252c3ae853a80ca853b}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{The cloud computing era has brought significant challenges in energy and operational costs of data centers. As a result, green initiatives with regard to energy-efficient management of data center infrastructure for cloud computing have become essential. Addressing a big class of widely deployed data centers with relatively consistent workload and applications, this paper presents a new profile-based application assignment approach for greener and more energy-efficient data centers. It builds realistic profiles from the raw data measured from data centers and then establishes a theoretical framework for profile-based application assignment. A penalty-based profile matching algorithm (PPMA) is further developed to obtain an assignment solution, which gives near-optimal allocations whilst satisfying energy-efficiency, resource utilization efficiency and application completion time constraints. Through experimental studies, the profiling approach is demonstrated to be feasible, scalable and energy-efficient when compared to the commonly used general and workload history based application management approaches.}
+      \field{issn}{0167-739X}
+      \field{journaltitle}{Future Generation Computer Systems}
+      \field{title}{Profile-based application assignment for greener and more energy-efficient data centers}
+      \field{volume}{67}
+      \field{year}{2017}
+      \field{pages}{94\bibrangedash 108}
+      \range{pages}{15}
+      \verb{doi}
+      \verb https://doi.org/10.1016/j.future.2016.06.037
+      \endverb
+      \verb{urlraw}
+      \verb http://www.sciencedirect.com/science/article/pii/S0167739X16302606
+      \endverb
+      \verb{url}
+      \verb http://www.sciencedirect.com/science/article/pii/S0167739X16302606
+      \endverb
+      \keyw{Data center,Application assignment,Profile,Resource management,Energy efficiency}
+    \endentry
+    \entry{WANG2017251}{article}{}
+      \name{author}{4}{}{%
+        {{uniquename=1,uniquepart=given,hash=c929c5edd0187019651c12abc2aa105d}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Junqi},
+           giveni={J\bibinitperiod},
+           givenun=1}}%
+        {{uniquename=0,uniquepart=base,hash=2dd11f0e6305e6c8cbffd634ed28ed57}{%
+           family={Zhou},
+           familyi={Z\bibinitperiod},
+           given={Pei},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=82490f28e16d9bd1ecf0fbfd93c38c58}{%
+           family={Huang},
+           familyi={H\bibinitperiod},
+           given={Gongsheng},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=f27ec46ccd272a021fd78bdac92dd490}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Wei},
+           giveni={W\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{9a4b4869a89bd3ec97c17f799da02543}
+      \strng{fullhash}{988897cbc0f304e310c124478cd91f63}
+      \strng{bibnamehash}{9a4b4869a89bd3ec97c17f799da02543}
+      \strng{authorbibnamehash}{9a4b4869a89bd3ec97c17f799da02543}
+      \strng{authornamehash}{9a4b4869a89bd3ec97c17f799da02543}
+      \strng{authorfullhash}{988897cbc0f304e310c124478cd91f63}
+      \field{sortinit}{W}
+      \field{sortinithash}{ecb89ff85896a47dc313960773ac311d}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{While online optimal control is regarded as an efficient tool to improve the operating efficiency of air conditioning, traditional optimal control strategies utilize the so-called time-driven optimization (TDO) scheme which triggers actions by “time”. Although it works well for simple air conditioning systems, several limitations are encountered when systems become more and more complex. Since TDO is a periodic scheme, it may not be suitable or efficient to react to stochastic operational changes. Recently, in order to solve those limitations, the event-driven optimization (EDO) scheme has been proposed, in which actions are triggered by “event”. However, previous studies only used prior knowledge to discover important events, which could only find events for general systems, and might not comprehensive because human prior knowledge is limited after all. Moreover, prior-knowledge-based method is able to discover new knowledge. Thus, this paper presents an effective data mining approach to discover the hidden knowledge in massive data set for EDO in building air conditioning systems. Results shown that data-mining-based EDO achieves a higher energy saving with reduced computation load, in comparison with the traditional TDO. Since the data mining approach can help to automate the process of finding critical events and event threshold, it also improves the practicability of EDO.}
+      \field{issn}{1876-6102}
+      \field{journaltitle}{Energy Procedia}
+      \field{note}{Leveraging Energy Technologies and Policy Options for Low Carbon Cities}
+      \field{title}{A Data Mining Approach to Discover Critical Events for Event-Driven Optimization in Building Air Conditioning Systems}
+      \field{volume}{143}
+      \field{year}{2017}
+      \field{pages}{251\bibrangedash 257}
+      \range{pages}{7}
+      \verb{doi}
+      \verb https://doi.org/10.1016/j.egypro.2017.12.680
+      \endverb
+      \verb{urlraw}
+      \verb http://www.sciencedirect.com/science/article/pii/S1876610217364445
+      \endverb
+      \verb{url}
+      \verb http://www.sciencedirect.com/science/article/pii/S1876610217364445
+      \endverb
+      \keyw{data mining,variable importance,building efficiency,event-driven optimization,air conditioning systems}
+    \endentry
+    \entry{XUE2017926}{article}{}
+      \name{author}{7}{}{%
+        {{uniquename=0,uniquepart=base,hash=6c84e3a9a102026b3b0a139917a22d1f}{%
+           family={Xue},
+           familyi={X\bibinitperiod},
+           given={Puning},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=3e8c2f643afd7692404a2e27770b9099}{%
+           family={Zhou},
+           familyi={Z\bibinitperiod},
+           given={Zhigang},
+           giveni={Z\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=fdaf4f1470992952c81b0b1cf1657c0c}{%
+           family={Fang},
+           familyi={F\bibinitperiod},
+           given={Xiumu},
+           giveni={X\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=c6b0b16d268b7266380aa15c23031fcf}{%
+           family={Chen},
+           familyi={C\bibinitperiod},
+           given={Xin},
+           giveni={X\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=5d07f51a51d9c2c1363bab089c022727}{%
+           family={Liu},
+           familyi={L\bibinitperiod},
+           given={Lin},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=b42ae0ae20863bcee5b721058f7f0b8b}{%
+           family={Liu},
+           familyi={L\bibinitperiod},
+           given={Yaowen},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=83f95dca7c81df3fe67380769eb0321c}{%
+           family={Liu},
+           familyi={L\bibinitperiod},
+           given={Jing},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{40ddf937404b0cebc2394ecd8228544c}
+      \strng{fullhash}{a7035f035d613ff65b1c6c96624aa5f3}
+      \strng{bibnamehash}{40ddf937404b0cebc2394ecd8228544c}
+      \strng{authorbibnamehash}{40ddf937404b0cebc2394ecd8228544c}
+      \strng{authornamehash}{40ddf937404b0cebc2394ecd8228544c}
+      \strng{authorfullhash}{a7035f035d613ff65b1c6c96624aa5f3}
+      \field{sortinit}{X}
+      \field{sortinithash}{b0b62a29ee4a21a0e618fed53a0313cc}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{The present generation of district heating (DH) technologies will have to be further developed into the 4th generation to fulfil the important role in future smart energy systems. At present, automatic meter reading systems have been installed in DH systems. These systems make hourly or even minutely meter readings available at low cost. However, the sheer quantity and complex of the data poses a challenge at various levels for traditional data analysis approaches. Data mining is a promising technology and is used to automatically extract valuable knowledge hidden in large amounts of data. To investigate the potential application of descriptive data mining techniques in DH systems, this study proposes a method based on descriptive data mining to improve the energy performance of DH substations. The proposed method consists of five steps: data cleaning, data transformation, cluster analysis, association analysis, and interpretation/evaluation. Data cleaning and transformation are implemented to improve data quality and transform data into forms that are appropriate for mining. Cluster analysis is performed to identify distinct operating patterns of substations. Based on each pattern, association analysis is then adopted to discover the unsuspected knowledge in the form of rules. Interpretation/evaluation is performed to select and interpret potentially useful rules. To demonstrate its applicability, the proposed method is used to analyze the datasets obtained from an automatic meter reading system at two substations in the DH system in Changchun, China. This application reveals that the method can effectively extract potentially useful knowledge and thereby provide essential guidance for the fault detection and operation optimization of DH substations.}
+      \field{issn}{0306-2619}
+      \field{journaltitle}{Applied Energy}
+      \field{title}{Fault detection and operation optimization in district heating substations based on data mining techniques}
+      \field{volume}{205}
+      \field{year}{2017}
+      \field{pages}{926\bibrangedash 940}
+      \range{pages}{15}
+      \verb{doi}
+      \verb https://doi.org/10.1016/j.apenergy.2017.08.035
+      \endverb
+      \verb{urlraw}
+      \verb http://www.sciencedirect.com/science/article/pii/S0306261917310401
+      \endverb
+      \verb{url}
+      \verb http://www.sciencedirect.com/science/article/pii/S0306261917310401
+      \endverb
+      \keyw{District heating substation,Data mining,Automatic meter reading system,Fault detection,Operation optimization}
+    \endentry
+    \entry{ZHOU201873}{article}{}
+      \name{author}{5}{}{%
+        {{uniquename=0,uniquepart=base,hash=bf8821420565328b3085cef67e44b2af}{%
+           family={Zhou},
+           familyi={Z\bibinitperiod},
+           given={Hao},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=b4c0afd7386982a829882b5257c80969}{%
+           family={Lin},
+           familyi={L\bibinitperiod},
+           given={Borong},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=e1b219d4c791fe4a7a69a45de27639a4}{%
+           family={Qi},
+           familyi={Q\bibinitperiod},
+           given={Jianqiang},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=c36cb06e9931d6ea6cd9267b0ad0fb8c}{%
+           family={Zheng},
+           familyi={Z\bibinitperiod},
+           given={Lihong},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=a20d91e2883fd74d6ddc32e4e17c6ac5}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Zhongchen},
+           giveni={Z\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{9644136b9cc255447d781d15df788789}
+      \strng{fullhash}{5d119ec1f9258817d3c0e98a7d324e7b}
+      \strng{bibnamehash}{9644136b9cc255447d781d15df788789}
+      \strng{authorbibnamehash}{9644136b9cc255447d781d15df788789}
+      \strng{authornamehash}{9644136b9cc255447d781d15df788789}
+      \strng{authorfullhash}{5d119ec1f9258817d3c0e98a7d324e7b}
+      \field{sortinit}{Z}
+      \field{sortinithash}{156173bd08b075d7295bc3e0f4735a04}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Residential buildings in northern China have annually consumed over 4.4\% of China's total energy by space heating, and the proportion is still growing. A key task when making an energy conservation guide is to identify the parameters that have significant impacts on the building heating energy consumption. The traditional methods for this task, such as optimization-simulation, regression, and artificial neural network (ANN) methods, either require considerable amounts of computing capacity and time, or present the results in complex equations or networks that are difficult to understand. This study proposed a data mining approach to analyze the correlation between a building's heating energy consumption and its physical & heating system parameters, based on a field survey of 5615 households from 116 buildings in Tianjin, a city in China's cold winter climate region. The box-plot method was used to detect outliers in the original database, and determine the attributes. The information gain ratio calculation algorithm was applied to rank the correlation between the heating energy consumption per unit area (HECPA) and 16 (19) attributes on both household and building scales. Finally, the C4.5 decision tree classifier was used to model the correlations and output the classification rules. The results indicated that the window heat-transmission coefficient and type of heating-terminal were the two attributes that most significantly affected the heating energy consumption on both scales. According to the classification rules, a higher window heat-transmission coefficient for a household usually resulted in a higher HECPA level, while buildings that used floor heating as their heating-terminals had a high probability of consuming more heating energy than those that used radiators. Nevertheless, a higher window-to-wall ratio may not necessarily result in more heating energy consumption. The main contribution of this study was the development of a promising approach that could assist in quickly understanding the hidden correlation between heating energy consumption and related factors through a massive amount of collected data.}
+      \field{issn}{0378-7788}
+      \field{journaltitle}{Energy and Buildings}
+      \field{title}{Analysis of correlation between actual heating energy consumption and building physics, heating system, and room position using data mining approach}
+      \field{volume}{166}
+      \field{year}{2018}
+      \field{pages}{73\bibrangedash 82}
+      \range{pages}{10}
+      \verb{doi}
+      \verb https://doi.org/10.1016/j.enbuild.2018.01.042
+      \endverb
+      \verb{urlraw}
+      \verb http://www.sciencedirect.com/science/article/pii/S0378778817328529
+      \endverb
+      \verb{url}
+      \verb http://www.sciencedirect.com/science/article/pii/S0378778817328529
+      \endverb
+      \keyw{Correlation analysis,Heating energy consumption,Data mining,Box-plot approach,Outliers,Information gain ratio,C4.5 decision tree}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
